@@ -45,7 +45,9 @@ Smartcard middlewares (PKCS#11 / ISO 7816)
 
 Machine Readable Travel Documents (MRTD) APIs and desktop / mobile applications (ICAO DOC 9303)
 
-CryptoTokenKit modules
+CryptoTokenKit (CTK) & KSP/CSP modules
+
+AuthZ & AuthN solutions based on OAuth2, OpenID Connect, SAML and TPM keys. 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&count_private=true&line_height=40&theme=dark)
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElMostafaIdrassi&line_height=33&theme=dark)
