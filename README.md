@@ -52,15 +52,6 @@ AuthZ & AuthN solutions based on OAuth2, OpenID Connect, SAML and TPM keys.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&count_private=true&line_height=40&theme=dark)
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElMostafaIdrassi&line_height=33&theme=dark)
 
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/visits/ElMostafaIdrassi/ElMostafaIdrassi?style=flat-square&color=blue&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/years/ElMostafaIdrassi?style=flat-square&color=blue&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/repos/ElMostafaIdrassi?style=flat-square&color=blue&logo=github">
-</a>
-<a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/gists/ElMostafaIdrassi?style=flat-square&color=blue&logo=github">
+<a href="https://hasherezade.net">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElMostafaIdrassi&theme=dark" />
 </a>
