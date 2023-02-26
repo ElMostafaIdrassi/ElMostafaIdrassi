@@ -49,9 +49,8 @@ CryptoTokenKit (CTK) & KSP/CSP modules
 
 AuthZ & AuthN solutions based on OAuth2, OpenID Connect, SAML and TPM keys. 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&count_private=true&line_height=40&theme=dark)
-![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElMostafaIdrassi&line_height=33&theme=dark)
-
-<a href="https://hasherezade.net">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElMostafaIdrassi&theme=dark" />
-</a>
+![My github stats](https://github-readme-stats-ElMostafaIdrassi.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&theme=dark&include_all_commits=true)
+![My github stats](https://github-readme-stats-ElMostafaIdrassi.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&theme=dark&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)
+![My github trophy](https://github-profile-trophy.vercel.app/?username=ElMostafaIdrassi&row=1&theme=dark)
+![My github Streak](https://github-readme-streak-stats.herokuapp.com?user=ElMostafaIdrassi&theme=dark)
+![My github langs](https://github-readme-stats-ElMostafaIdrassi.vercel.app/api/top-langs/?username=ElMostafaIdrassi&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=dark)
