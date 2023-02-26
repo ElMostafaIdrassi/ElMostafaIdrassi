@@ -49,8 +49,12 @@ CryptoTokenKit (CTK) & KSP/CSP modules
 
 AuthZ & AuthN solutions based on OAuth2, OpenID Connect, SAML and TPM keys. 
 
-![My github stats](https://github-readme-stats-ElMostafaIdrassi.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&theme=dark&include_all_commits=true)
-![My github stats](https://github-readme-stats-ElMostafaIdrassi.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&theme=dark&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)
-![My github trophy](https://github-profile-trophy.vercel.app/?username=ElMostafaIdrassi&row=1&theme=dark)
-![My github Streak](https://github-readme-streak-stats.herokuapp.com?user=ElMostafaIdrassi&theme=dark)
-![My github langs](https://github-readme-stats-ElMostafaIdrassi.vercel.app/api/top-langs/?username=ElMostafaIdrassi&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&theme=nord&include_all_commits=true)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=ElMostafaIdrassi&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)
+
+![My github trophy](https://github-profile-trophy.vercel.app/?username=ElMostafaIdrassi&row=1&theme=nord)
+
+![My github Streak](https://github-readme-streak-stats.herokuapp.com?user=ElMostafaIdrassi&theme=nord)
+
+![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElMostafaIdrassi&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)
